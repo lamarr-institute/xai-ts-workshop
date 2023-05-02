@@ -3,7 +3,7 @@ layout: page
 title: Call For Papers
 ---
 
-# Call For Papers
+## Call For Papers
 Time series data is omnipresent, as time is an integral component of all observable phenomena.
 With the increasing instrumentation of our world, sensors and systems are continuously generating vast quantities of time series data.
 Hence, time series analysis is integrated in principled decision-making and planning in a wide variety of applications across various industries.
@@ -29,7 +29,7 @@ XAI-TS welcomes papers that cover, but are not limited to, one or several of the
 - Explainable aggregation of Time Series.
 - Causality;  Stochastic process modeling
 
-# Submission and Dates
+## Submission and Dates
 
 We welcome submissions of full papers (8-16 pages) and short papers (4 pages) reporting on original research.
 Submissions must follow the LNCS formatting style and will be double-blinded and reviewed by at least two program committee members.
@@ -43,7 +43,7 @@ We also welcome submissions of position papers (2 pages) presenting novel ideas,
 The workshop will comprise of paper presentations, discussions and invited talks.
 In case of a large number of submissions, a poster session may also be included.
 
-# Organization
+## Organization
 **Matthias Jakobs** is a Ph.D. student from TU Dortmund University and the LAMARR Institute for Machine Learning.
 His research includes the application of explainability methods in the context of time-series forecasting, with a focus on explainable model selection and ensembling.
 He was also a Program Committee member of the "Workshop on Trustworthy Artificial Intelligence" hosted at ECML-PKDD 2022. [Webpage](https://www-ai.cs.tu-dortmund.de/PERSONAL/jakobs.html)
@@ -60,7 +60,7 @@ She served as a PC member for several top conferences, including ECML PKDD, AAAI
 She also co-organized a discovery challenge in EPIA17 and was a member and nominee of the European DatSci and AI Awards in 2019.
 She gave a  tutorial on “Automated Data Science” in the Data Sharing Winter School 2020. [Webpage](https://www-ai.cs.tu-dortmund.de/PERSONAL/saadallah.html)
 
-## Program Committee
+# Program Committee
 - Sebastian Buschjäger, TU Dortmund University, Germany
 - Amal Saadallah, TU Dortmund University, Germany
 - Matthias Jakobs, TU Dortmund University, Germany
