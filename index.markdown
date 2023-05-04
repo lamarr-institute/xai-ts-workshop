@@ -3,7 +3,7 @@ layout: page
 title: Call For Papers
 ---
 
-![](lamarr-logo-small.png){:height="45px" style="margin: 5px"} ![](rc-trust-logo.png){:height="45px" style="margin: 5px"} ![](tu-dortmund-logo.png){:height="45px" style="margin: 5px"}
+![](lamarr-logo-small.png){:height="50px" style="margin: 5px"} ![](rc-trust-logo.png){:height="50px" style="margin: 5px"} ![](tu-dortmund-logo.png){:height="50px" style="margin: 5px"}
 
 ## Call For Papers
 Time series data is omnipresent, as time is an integral component of all observable phenomena.
