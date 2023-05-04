@@ -36,6 +36,7 @@ XAI-TS welcomes papers that cover, but are not limited to, one or several of the
 We welcome submissions of full papers (8-16 pages) and short papers (4 pages) reporting on original research.
 Submissions must follow the [LNCS formatting style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and will be double-blinded and reviewed by at least two program committee members.
 We also welcome submissions of position papers (2 pages) presenting novel ideas, perspectives, or challenges in explainable AI for Time Series, which will be reviewed by the organizers.
+You can submit via Microsoft CMT [here](https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/Submission/Index).
 
 - Paper Submission: Monday, June 12, 2023
 - Author Notification: Wednesday, July 12, 2023
