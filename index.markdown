@@ -3,8 +3,6 @@ layout: page
 title: Call For Papers
 ---
 
-![](lamarr-logo-small.png){:height="50px" style="margin: 5px"} ![](rc-trust-logo.png){:height="50px" style="margin: 5px"} ![](tu-dortmund-logo.png){:height="50px" style="margin: 5px"}
-
 ## Call For Papers
 Time series data is omnipresent, as time is an integral component of all observable phenomena.
 With the increasing instrumentation of our world, sensors and systems are continuously generating vast quantities of time series data.
@@ -78,3 +76,6 @@ In case of a large number of submissions, a poster session may also be included.
 - Maja Schneider, TU Munich / Imperial College London, Germany / United Kingdom
 - Chiara Balestra, TU Dortmund University, Germany
 - Miguel Ahecha, Leipzig University, Germany
+
+<!-- ![](lamarr-logo-small.png){:height="50px" style="margin: 5px"} ![](rc-trust-logo.png){:height="50px" style="margin: 5px"} ![](tu-dortmund-logo.png){:height="50px" style="margin: 5px"} -->
+

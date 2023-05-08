@@ -26,10 +26,10 @@ email: your-email@example.com
 #   Google search results) and in your feed.xml site description.
 # baseurl: "" # the subpath of your site, e.g. /blog
 
-# url: ""
-# baseurl: ""
-url: "https://lamarr-institute.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "xai-ts-workshop" # the subpath of your site, e.g. /blog
+url: ""
+baseurl: ""
+# url: "https://lamarr-institute.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "xai-ts-workshop" # the subpath of your site, e.g. /blog
 
   #twitter_username: jekyllrb
   #github_username:  jekyll
@@ -41,8 +41,8 @@ plugins:
 
 header_pages:
   - index.markdown 
-    #  - submission.markdown
-  - about.markdown
+  - program.markdown
+  - talks.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
