@@ -44,6 +44,11 @@ h2 {
     text-shadow: 1px 1px 3px #c0c0c0;
 }
 
+h1 {
+    color: #da8520;
+    text-shadow: 1px 1px 3px #c0c0c0;
+}
+
 a:link {
     color: #da8520;
 }
