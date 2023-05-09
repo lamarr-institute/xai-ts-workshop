@@ -35,6 +35,7 @@ We welcome submissions of full papers (8-16 pages) and short papers (4 pages) re
 Submissions must follow the [LNCS formatting style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and will be double-blinded and reviewed by at least two program committee members.
 We also welcome submissions of position papers (2 pages) presenting novel ideas, perspectives, or challenges in explainable AI for Time Series, which will be reviewed by the organizers.
 You can submit via Microsoft CMT [here](https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/Submission/Index).
+At least one author of each accepted paper must have a full registration and be in Turin to present the paper. Papers without a full registration or in-presence presentation won't be included in the post-workshop Springer proceedings.
 
 - Paper Submission: Monday, June 12, 2023
 - Author Notification: Wednesday, July 12, 2023
