@@ -40,7 +40,7 @@ At least one author of each accepted paper must have a full registration and be 
 - Paper Submission: Monday, June 12, 2023
 - Author Notification: Wednesday, July 12, 2023
 - Proceedings Online: Wednesday, September 12, 2023
-- Workshop: TBD
+- Workshop: Monday, September 18, 2023
 
 The workshop will comprise of paper presentations, discussions and invited talks.
 In case of a large number of submissions, a poster session may also be included.
