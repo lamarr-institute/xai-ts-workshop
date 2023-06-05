@@ -37,9 +37,10 @@ We also welcome submissions of position papers (2 pages) presenting novel ideas,
 You can submit via Microsoft CMT [here](https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/Submission/Index).
 At least one author of each accepted paper must have a full registration and be in Turin to present the paper. Papers without a full registration or in-presence presentation won't be included in the post-workshop Springer proceedings.
 
-- Paper Submission: Monday, June 12, 2023
-- Author Notification: Wednesday, July 12, 2023
-- Proceedings Online: Wednesday, September 12, 2023
+- Abstract Submission: Monday, June 12, 2023
+- Full Paper Submission: Wednesday, June 21, 2023
+- Author Notification: Monday, July 24, 2023
+- Camera Ready Deadline: Sunday, August 20, 2023
 - Workshop: Monday, September 18, 2023
 
 The workshop will comprise of paper presentations, discussions and invited talks.
