@@ -71,12 +71,11 @@ In case of a large number of submissions, a poster session may also be included.
 - Amal Saadallah, TU Dortmund University, Germany
 - Matthias Jakobs, TU Dortmund University, Germany
 - Emmanuel Müller, TU Dortmund University, Germany
-- Arn Baudzus, Federal Institute for Occupational Safety and Health, Germany
 - Nilah Ravi Nair, TU Dortmund University, Germany
 - Jacopo De Stefani, TU Delft, The Netherlands
 - Maja Schneider, TU Munich / Imperial College London, Germany / United Kingdom
 - Chiara Balestra, TU Dortmund University, Germany
-- Miguel Ahecha, Leipzig University, Germany
+- Bin Li, TU Dortmund University, Germany
 
 <!-- ![](lamarr-logo-small.png){:height="50px" style="margin: 5px"} ![](rc-trust-logo.png){:height="50px" style="margin: 5px"} ![](tu-dortmund-logo.png){:height="50px" style="margin: 5px"} -->
 
