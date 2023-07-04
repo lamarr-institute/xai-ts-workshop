@@ -8,7 +8,9 @@ title: Invited Talks
 
 **Andreas Theissler** received the Ph.D. degree from Brunel University London, in 2014. He is currently a Professor at the Aalen University of Applied Sciences, Germany, where he researches and lectures on different aspects of machine learning and human-centered AI. Prior to that, he studied software engineering and has worked in different data science positions in industry. He has published on the interplay of machine learning and users, for example on the questions of how we can evaluate, understand, improve, or enable machine learning by incorporating expert knowledge. In addition, he has worked in the field of machine learning in applications, e.g., anomaly detection in time series from automotive systems.
 
+<br>
 <hr>
+<br>
 
 ### George Tzagkarakis
 ![](speaker/tzagkarakis.gif){:height="300px"}
@@ -19,7 +21,9 @@ His current research interests primarily focus on statistical signal and image p
 # Talk: Feature Engineering for Graph-based Analysis of Recurrent Behavior in Biosignal Ensembles
 As the field of brain monitoring is evolving rapidly, there is an increasing demand for new approaches to handle and analyze relevant signals, such as electroencephalogram (EEG) ensembles. EEG signals, which are often corrupted by impulsive (heavy-tailed) noise, admit naturally graph representations that encode the inherent spatio-temporal interdependencies between the electrodes. Furthermore, there is a growing interest in dynamic approaches to functional brain connectivity, and their potential applications in understanding atypical brain function. To address these problems, this talk will elaborate on two distinct directions: (i) the design of an efficient regularized graph filtering method based on fractional lower-order moments, which better adapts to the heavy-tailed statistics of impulsive noise; (ii) recurrence quantification analysis for the engineering of appropriate features characterizing the dynamic evolution of the underlying EEG data generating process, which are further combined with conventional classifiers for the identification of epileptic seizures.
 
+<br>
 <hr>
+<br>
 
 ### Panagiotis Papapetrou
 
