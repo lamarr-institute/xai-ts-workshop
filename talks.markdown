@@ -8,6 +8,11 @@ title: Invited Talks
 
 **Andreas Theissler** received the Ph.D. degree from Brunel University London, in 2014. He is currently a Professor at the Aalen University of Applied Sciences, Germany, where he researches and lectures on different aspects of machine learning and human-centered AI. Prior to that, he studied software engineering and has worked in different data science positions in industry. He has published on the interplay of machine learning and users, for example on the questions of how we can evaluate, understand, improve, or enable machine learning by incorporating expert knowledge. In addition, he has worked in the field of machine learning in applications, e.g., anomaly detection in time series from automotive systems.
 
+# Talk: Explainable AI for time series classification and anomaly detection: current state and open issues
+A large part of the research on explainable AI is done on tabular data or on image data. We believe that time series should receive the same research attention since they are omnipresent, e.g., in technical systems, the medical domain, or business applications. In this invited talk, the fields of time series classification and anomaly detection in time series are discussed.
+
+Based on our recently published literature review on XAI for time series classification, the talk will categorize the research field through a taxonomy subdividing the methods into time points-based, subsequences-based and instance-based, and as a main contribution identify open research directions with the aim to inspire future research. While we believe excellent research has been done in the field, there is a variety of unsolved issues, leaving room for numerous future works. To this end, this workshop can help guiding future research directions for XAI on time series data.
+
 <br>
 <hr>
 <br>
