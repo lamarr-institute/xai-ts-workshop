@@ -3,6 +3,14 @@ layout: page
 title: Call For Papers
 ---
 
+## Slides available
+Our Keynote speakers were kind enough to make their slides available! You can find them here: 
+
+- [Andreas Theissler - Explainable AI for Time Series Classification and Anomaly Detection: Current state and open issues](slides/theissler.pdf)
+- [Panagiotis Papapetrou - Towards Explainable Time Series Classification](slides/papapetrou.pdf)
+- [George Tzagkarakis - Feature Engineering for Graph-based Analysis of Recurrent Behavior in Biosignal Ensembles](slides/tzagkarakis.pdf)
+
+
 ## Call For Papers
 Time series data is omnipresent, as time is an integral component of all observable phenomena.
 With the increasing instrumentation of our world, sensors and systems are continuously generating vast quantities of time series data.
