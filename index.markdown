@@ -6,7 +6,7 @@ title: Call For Papers
 ## Slides available
 Our Keynote speakers were kind enough to make their slides available! You can find them here: 
 
-- [Andreas Theissler - Explainable AI for Time Series Classification and Anomaly Detection: Current state and open issues](slides/theissler.pdf)
+- [Andreas Theissler - Explainable AI for Time Series Classification and Anomaly Detection: Current state and open issues](slides/Theissler_n.pdf)
 - [Panagiotis Papapetrou - Towards Explainable Time Series Classification](slides/papapetrou.pdf)
 - [George Tzagkarakis - Feature Engineering for Graph-based Analysis of Recurrent Behavior in Biosignal Ensembles](slides/tzagkarakis.pdf)
 
